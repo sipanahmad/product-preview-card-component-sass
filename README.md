@@ -36,8 +36,8 @@ The Product preview card component challenge tasks participants with building a 
 	
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/recipe-page-main-using-tailwindcss-hSB63DucCt)
-- Live Site URL: [Live Demo](https://recipe-page-main-tailwindcss.vercel.app/	)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-solution-using-sass-mUDoJ2_9Jf)
+- Live Site URL: [Live Demo](https://product-preview-card-component-sass.vercel.app/)
 
 ## My process
 
